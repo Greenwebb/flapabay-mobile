@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expo-Boilerplate
 
 
@@ -33,3 +34,7 @@ npm install
 ```
 npm run web
 ```
+=======
+# flapabay-mobile
+Flapabay mobile app
+>>>>>>> 3894d54cca9ab2c55d5592312a0e8dfb6c7ec661
